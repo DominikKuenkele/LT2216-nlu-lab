@@ -5,5 +5,5 @@ pipeline:
     model: "en_core_web_md"
   - name: SpacyTokenizer
   - name: SpacyFeaturizer
-    pooling: mean
+    pooling: max
   - name: SklearnIntentClassifier

@@ -38,3 +38,25 @@ nlu:
     - make the room darker
     - darken the room
     - make it darker in here
+
+- intent: cook
+  examples: |
+    - make food
+    - cook the meal
+    - prepare something to eat
+    - grill the steak
+    - warm up the leftovers 
+
+- intent: ask_oven_warm
+  examples: |
+    - is the oven warm
+    - is the oven hot
+    - is it warm
+    - is it hot
+
+- intent: inform_oven_warm
+  examples: |
+    - the oven is warm
+    - the oven is hot
+    - it is warm
+    - it is hot

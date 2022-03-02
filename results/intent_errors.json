@@ -1,0 +1,218 @@
+[
+  {
+    "text": "put that in the garbage",
+    "intent": "move_to_trash",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.21833133697509766
+    }
+  },
+  {
+    "text": "throw that away",
+    "intent": "move_to_trash",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.20366334915161133
+    }
+  },
+  {
+    "text": "put this in the trash can",
+    "intent": "move_to_trash",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.19591905176639557
+    }
+  },
+  {
+    "text": "dispose of that",
+    "intent": "move_to_trash",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.23747561872005463
+    }
+  },
+  {
+    "text": "put that in the junk",
+    "intent": "move_to_trash",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.2524409592151642
+    }
+  },
+  {
+    "text": "turn on the light",
+    "intent": "turn_on_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.26723337173461914
+    }
+  },
+  {
+    "text": "switch on the light",
+    "intent": "turn_on_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.252396821975708
+    }
+  },
+  {
+    "text": "light up the room",
+    "intent": "turn_on_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.20621183514595032
+    }
+  },
+  {
+    "text": "make it brighter in here",
+    "intent": "turn_on_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.19677269458770752
+    }
+  },
+  {
+    "text": "turn off the light",
+    "intent": "turn_off_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.27726706862449646
+    }
+  },
+  {
+    "text": "switch off the light",
+    "intent": "turn_off_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.26641446352005005
+    }
+  },
+  {
+    "text": "make the room darker",
+    "intent": "turn_off_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.20355834066867828
+    }
+  },
+  {
+    "text": "darken the room",
+    "intent": "turn_off_light",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.19536207616329193
+    }
+  },
+  {
+    "text": "make it darker in here",
+    "intent": "turn_off_light",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.19956842064857483
+    }
+  },
+  {
+    "text": "make food",
+    "intent": "cook",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.21059274673461914
+    }
+  },
+  {
+    "text": "cook the meal",
+    "intent": "cook",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.236752450466156
+    }
+  },
+  {
+    "text": "prepare something to eat",
+    "intent": "cook",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.2911391258239746
+    }
+  },
+  {
+    "text": "grill the steak",
+    "intent": "cook",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.23688167333602905
+    }
+  },
+  {
+    "text": "warm up the leftovers",
+    "intent": "cook",
+    "intent_prediction": {
+      "name": "vacuum",
+      "confidence": 0.1944189816713333
+    }
+  },
+  {
+    "text": "is the oven warm",
+    "intent": "ask_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.18563319742679596
+    }
+  },
+  {
+    "text": "is the oven hot",
+    "intent": "ask_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.19234777987003326
+    }
+  },
+  {
+    "text": "is it warm",
+    "intent": "ask_oven_warm",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.19380642473697662
+    }
+  },
+  {
+    "text": "is it hot",
+    "intent": "ask_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.1804516762495041
+    }
+  },
+  {
+    "text": "the oven is warm",
+    "intent": "inform_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.16889075934886932
+    }
+  },
+  {
+    "text": "the oven is hot",
+    "intent": "inform_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.1834651678800583
+    }
+  },
+  {
+    "text": "it is warm",
+    "intent": "inform_oven_warm",
+    "intent_prediction": {
+      "name": "give",
+      "confidence": 0.17794160544872284
+    }
+  },
+  {
+    "text": "it is hot",
+    "intent": "inform_oven_warm",
+    "intent_prediction": {
+      "name": "turn_on_light",
+      "confidence": 0.177534818649292
+    }
+  }
+]

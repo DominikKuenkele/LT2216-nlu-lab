@@ -1,0 +1,87 @@
+{
+  "cook": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "vacuum": 5
+    }
+  },
+  "give": {
+    "precision": 0.4166666666666667,
+    "recall": 1.0,
+    "f1-score": 0.5882352941176471,
+    "support": 5,
+    "confused_with": {}
+  },
+  "vacuum": {
+    "precision": 0.2631578947368421,
+    "recall": 1.0,
+    "f1-score": 0.4166666666666667,
+    "support": 5,
+    "confused_with": {}
+  },
+  "move_to_trash": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "give": 4,
+      "vacuum": 1
+    }
+  },
+  "ask_oven_warm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "turn_on_light": 3,
+      "give": 1
+    }
+  },
+  "turn_off_light": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {
+      "vacuum": 4,
+      "give": 1
+    }
+  },
+  "inform_oven_warm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "turn_on_light": 3,
+      "give": 1
+    }
+  },
+  "turn_on_light": {
+    "precision": 0.14285714285714285,
+    "recall": 0.2,
+    "f1-score": 0.16666666666666666,
+    "support": 5,
+    "confused_with": {
+      "vacuum": 4
+    }
+  },
+  "accuracy": 0.2894736842105263,
+  "macro avg": {
+    "precision": 0.10283521303258145,
+    "recall": 0.275,
+    "f1-score": 0.14644607843137256,
+    "support": 38
+  },
+  "weighted avg": {
+    "precision": 0.1082475926658752,
+    "recall": 0.2894736842105263,
+    "f1-score": 0.15415376676986586,
+    "support": 38
+  }
+}
